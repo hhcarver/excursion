@@ -1,6 +1,7 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
 h1 {
   color: white;
@@ -9,9 +10,18 @@ h1 {
   font-size: 50px;
   text-align: center;
 }
-#link{
+#link {
   font-family: Verdana;
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+#explains {
+  font-size: 21px;
+  color: gray;
 }
